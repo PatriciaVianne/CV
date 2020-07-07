@@ -1,0 +1,94 @@
+
+body{
+  color:#4a3f35;
+  font-family:"Montserrat", sans-serif;
+}
+h1{
+  margin: 5% 0;
+}
+h2{
+  font-weight: 900;
+  padding-bottom: 2%;
+}
+h3{
+  line-height: 1.5;
+}
+
+hr{
+  width: 90%;
+}
+td{
+  width: 70%;
+}
+.hyperlink{
+  color:#ffcccc;
+}
+.hyperlink:hover{
+  color:#ffbbcc;
+}
+.education{
+  width:100%;
+}
+.list-head{
+font-size: 1.1rem;
+  font-weight: 900;
+  list-style-type: none;
+}
+.bg-main{
+  margin: 0;
+  width: 100%;
+  padding: 0 5% 2%;
+  background-color: #ffddcc;
+}
+.bg-sec{
+  margin: 0;
+  width: 100%;
+  padding: 3% 5%;
+  background-color: #ffffff;
+}
+.sec-buttons{
+  background-color: #ffddcc;
+  text-align: center;
+  margin: auto;
+}
+.basic-info{
+  text-align: center;
+  padding: 10% 20%;
+  margin: auto;
+  font-size: 1.5rem;
+}
+.contact{
+margin: auto;
+  text-align: center;
+}
+.contact-e{
+  margin: 0 0 5% 5%;
+}
+.btn{
+  margin: 4% 0 4% 2%;
+}
+.intro{
+  background-color: #ffddcc;
+  padding: 8% 20%;
+  text-align: center;
+}
+
+.image{
+  color: #ffddcc;
+  margin-bottom: 7%;
+}
+
+.work{
+  width: 100%;
+  margin:0;
+}
+.skills{
+  width: 100%;
+  margin: 0;
+}
+.skill-sec{
+  margin: 5% 2%;
+}
+.table{
+  width: 80%;
+}
